@@ -45,9 +45,9 @@ const INFO = {
 		},
 
 		{
-			title: "Weather APP",
+			title: "Weather App",
 			description:
-				"Introducing our Real-Time Weather Explorer, a React-based app that fetches live weather data from sources like OpenWeatherMap and Rapid API. The app's dynamic search feature allows you to effortlessly check humidity, temperature, and feels like conditions for any location worldwide. Stay ahead with the 7-day forecast, empowering you to plan your week effectively. The user-friendly interface ensures a seamless experience, while the app's reliance on trusted APIs guarantees accurate and reliable weather information. Experience weather tracking at its finest – download the Real-Time Weather Explorer now for a quick and comprehensive weather check.",
+				"Introducing my Real-Time Weather Explorer, a React-based app that fetches live weather data from sources like OpenWeatherMap and Rapid API. The app's dynamic search feature allows you to effortlessly check humidity, temperature, and feels like conditions for any location worldwide. Stay ahead with the 7-day forecast, empowering you to plan your week effectively. The user-friendly interface ensures a seamless experience, while the app's reliance on trusted APIs guarantees accurate and reliable weather information. Experience weather tracking at its finest – download the Real-Time Weather Explorer now for a quick and comprehensive weather check.",
 			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
 			link: "https://github.com/Arunesh310/weather-app",
