@@ -32,7 +32,7 @@ const INFO = {
 				"Dive into the future with my latest UI/UX project – an AI-themed website built using React. Immerse yourself in a sleek and dynamic interface designed for seamless navigation across devices. Experience the synergy of innovation and aesthetics, where user-centric design meets the cutting edge of artificial intelligence. This project is a visual journey into the possibilities of technology, prioritizing accessibility and engagement. Join me on this exploration of the future, where form and function harmonize in the digital realm.",
 			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
-			link: "https://github.com/Arunesh310/GPT3-website",
+			link: "https://gpt3ai-functional.netlify.app/",
 		},
 
 		{
@@ -41,7 +41,7 @@ const INFO = {
 				"Indulge in the essence of fine dining through my React and BEM CSS-crafted restaurant UI/UX. Elevate the user experience with a tasteful blend of elegance and functionality. Savor the details in each element, promising a visually delightful and intuitive journey through culinary excellence.",
 			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
-			link: "https://github.com/Arunesh310/Gourmet.-fine-dine-restaurant",
+			link: "https://gourmet-restaurant.netlify.app/",
 		},
 
 		{
@@ -50,7 +50,15 @@ const INFO = {
 				"Introducing my Real-Time Weather Explorer, a React-based app that fetches live weather data from sources like OpenWeatherMap and Rapid API. The app's dynamic search feature allows you to effortlessly check humidity, temperature, and feels like conditions for any location worldwide. Stay ahead with the 7-day forecast, empowering you to plan your week effectively. The user-friendly interface ensures a seamless experience, while the app's reliance on trusted APIs guarantees accurate and reliable weather information. Experience weather tracking at its finest – download the Real-Time Weather Explorer now for a quick and comprehensive weather check.",
 			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
-			link: "https://github.com/Arunesh310/weather-app",
+			link: "https://weather-app757575.netlify.app/",
+		},
+		{
+			title: "Todo-app",
+			description:
+				"Introducing my To-Do App – a seamless task management web application designed for simplicity and efficiency. Crafted with the power of HTML, CSS, and JavaScript, this app empowers you to effortlessly organize your daily activities. Add tasks with ease, mark them as completed, and bid farewell to unnecessary items in just a click.",
+			logo: "https://www.pikpng.com/pngl/m/150-1506141_html-css-and-javascript-logo-html5-css3-js.png",
+			linkText: "View Project",
+			link: "https://todoapp555.netlify.app/",
 		},
 	],
 };
