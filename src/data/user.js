@@ -27,12 +27,12 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Gpt-3 Website",
+			title: "Youtube Clone",
 			description:
-				"Dive into the future with my latest UI/UX project – an AI-themed website built using React. Immerse yourself in a sleek and dynamic interface designed for seamless navigation across devices. Experience the synergy of innovation and aesthetics, where user-centric design meets the cutting edge of artificial intelligence. This project is a visual journey into the possibilities of technology, prioritizing accessibility and engagement. Join me on this exploration of the future, where form and function harmonize in the digital realm.",
+				"Experience the essence of YouTube with this comprehensive YouTube Clone project. Built using React, it offers a familiar interface, allowing users to seamlessly navigate through a curated list of recommended videos. Dive into an immersive video playback experience, explore detailed video information, and engage with the community through comments.",
 			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
-			link: "https://gpt3ai-functional.netlify.app/",
+			link: "https://youtube-project-clone.vercel.app",
 		},
 
 		{
@@ -42,6 +42,14 @@ const INFO = {
 			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
 			link: "https://gourmet-restaurant.netlify.app/",
+		},
+		{
+			title: "Gpt-3 Website",
+			description:
+				"Dive into the future with my latest UI/UX project – an AI-themed website built using React. Immerse yourself in a sleek and dynamic interface designed for seamless navigation across devices. Experience the synergy of innovation and aesthetics, where user-centric design meets the cutting edge of artificial intelligence. This project is a visual journey into the possibilities of technology, prioritizing accessibility and engagement. Join me on this exploration of the future, where form and function harmonize in the digital realm.",
+			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+			linkText: "View Project",
+			link: "https://gpt3ai-functional.netlify.app/",
 		},
 
 		{
