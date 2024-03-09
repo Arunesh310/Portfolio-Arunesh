@@ -74,7 +74,7 @@ const INFO = {
 				"Introducing the ultimate Expense Tracker app powered by JS, React, and Redux! Effortlessly manage your finances with this sleek and user-friendly application. Track your expenses, set budgets, and gain insightful financial insights at your fingertips. With a seamless and intuitive interface, staying on top of your spending has never been easier. ",
 			logo: "https://cdn-images-1.medium.com/v2/resize:fit:853/0*9S9MhDSxFUJJe0DZ.jpg",
 			linkText: "View Project",
-			link: "https://expense-tracker77666.netlify.app/",
+			link: "https://expense-calculator-ecru-three.vercel.app/",
 		},
 		{
 			title: "Random Password Generator",
@@ -82,7 +82,7 @@ const INFO = {
 				"Generate strong and secure passwords effortlessly with our Password Generator. This tool creates 12-character passwords with a mix of uppercase letters, lowercase letters, numbers, and special characters. Easily copy your newly generated password to enhance your online security. Keep your accounts safe with unique and randomized passwords. ",
 			logo: "https://www.pikpng.com/pngl/m/150-1506141_html-css-and-javascript-logo-html5-css3-js.png",
 			linkText: "View Project",
-			link: "https://password-generator77.netlify.app/",
+			link: "https://random-password-generator-green.vercel.app/",
 		},
 	],
 };
