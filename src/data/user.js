@@ -27,6 +27,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Netflix clone with integrated AI",
+			description:
+				"Experience seamless transitions between logged-in and logged-out states with our Netflix-inspired platform. Dive into our Browse section featuring captivating headers, dynamic trailers, and personalized movie suggestions. Easily access our Login/Sign Up page for effortless authentication, seamlessly redirected to browsing afterward. Plus, enjoy our Smart Netflix Suggestion feature, tailor-made for your preferences, ensuring curated viewing experiences every time.",
+			logo: "https://cdn-images-1.medium.com/v2/resize:fit:853/0*9S9MhDSxFUJJe0DZ.jpg",
+			linkText: "View Project",
+			link: "https://netflix-clone-w-ith-ai-integrated.vercel.app",
+		},
+		{
 			title: "Youtube Clone",
 			description:
 				"Experience the essence of YouTube with this comprehensive YouTube Clone project. Built using React, it offers a familiar interface, allowing users to seamlessly navigate through a curated list of recommended videos. Dive into an immersive video playback experience, explore detailed video information, and engage with the community through comments.",
@@ -34,7 +42,6 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://youtube-project-clone.vercel.app",
 		},
-
 		{
 			title: "Gourmet Restaurant",
 			description:
@@ -51,7 +58,6 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://gpt3ai-functional.netlify.app/",
 		},
-
 		{
 			title: "Weather App",
 			description:
