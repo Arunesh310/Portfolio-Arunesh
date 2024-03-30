@@ -43,6 +43,22 @@ const INFO = {
 			link: "https://youtube-project-clone.vercel.app",
 		},
 		{
+			title: "Algo Sort Visualizer",
+			description:
+				"This project is a web application that demonstrates different sorting algorithms such as Bubble Sort, Merge Sort, Quick Sort, Heap Sort, Selection Sort, and Insertion Sort. Users can input arrays of elements and visualize the sorting process step by step. It serves as a hands-on learning tool for understanding and comparing sorting techniques.",
+			logo: "https://imgs.search.brave.com/FwFM3GmLNgA3FT6L7J9g0kMpJew0Rvpth6Wz_eroqD4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC85My8xNS9o/dG1sNS1jc3MzLWpz/LWljb24tc2V0LXdl/Yi1kZXZlbG9wbWVu/dC1sb2dvLXZlY3Rv/ci0yOTMwOTMxNS5q/cGc",
+			linkText: "View Project",
+			link: "https://algo-sorting-visualizer11.netlify.app/",
+		},
+		{
+			title: "Signature Buddy",
+			description:
+				"Our app simplifies electronic signatures, allowing users to effortlessly create, customize, and download their signatures. Experience convenience and efficiency in signing documents anytime, anywhere.",
+			logo: "https://imgs.search.brave.com/FwFM3GmLNgA3FT6L7J9g0kMpJew0Rvpth6Wz_eroqD4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC85My8xNS9o/dG1sNS1jc3MzLWpz/LWljb24tc2V0LXdl/Yi1kZXZlbG9wbWVu/dC1sb2dvLXZlY3Rv/ci0yOTMwOTMxNS5q/cGc",
+			linkText: "View Project",
+			link: "https://signature-buddy.netlify.app/",
+		},
+		{
 			title: "Gourmet Restaurant",
 			description:
 				"Indulge in the essence of fine dining through my React and BEM CSS-crafted restaurant UI/UX. Elevate the user experience with a tasteful blend of elegance and functionality. Savor the details in each element, promising a visually delightful and intuitive journey through culinary excellence.",
